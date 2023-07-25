@@ -1,0 +1,158 @@
+.e13a32e4ca8f2d3563612647cc3ff0-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.trang-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 329px;
+  height: 1086px;
+}
+.trang-3-inner,
+.trang-3-item {
+  position: absolute;
+  top: 0;
+  left: 324px;
+  background-color: var(--color-gainsboro);
+  width: 1596px;
+  height: 1086px;
+}
+.trang-3-inner {
+  top: 1px;
+  background-color: var(--color-white);
+  height: 1085px;
+}
+.group-25-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 250px;
+  height: 75px;
+}
+.about-me {
+  position: absolute;
+  top: 8px;
+  left: 5px;
+  display: inline-block;
+  font-weight: 700;
+  width: 245px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.group-25-button {
+  position: absolute;
+  top: 50px;
+  left: 1342px;
+  width: 250px;
+  height: 75px;
+  cursor: pointer;
+}
+.group-26-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 180px;
+  height: 75px;
+}
+.project {
+  position: absolute;
+  top: 10px;
+  left: 3px;
+  display: inline-block;
+  font-weight: 700;
+  width: 177px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.group-26-button {
+  position: absolute;
+  top: 50px;
+  left: 1616px;
+  width: 180px;
+  height: 75px;
+  color: var(--color-white);
+}
+.group-24-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 179px;
+  height: 75px;
+}
+.home {
+  position: absolute;
+  top: 10px;
+  left: 4px;
+  display: inline-block;
+  font-weight: 700;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.group-24-button {
+  position: absolute;
+  top: 50px;
+  left: 1129px;
+  width: 179px;
+  height: 75px;
+  cursor: pointer;
+}
+.a12feddad906b9140a27fa88bcdc70-icon,
+.id-malavida-1-1-icon {
+  position: absolute;
+  top: 153px;
+  left: 1135px;
+  width: 660px;
+  height: 825px;
+  object-fit: cover;
+}
+.id-malavida-1-1-icon {
+  top: 0;
+  left: 681px;
+  width: 402px;
+  height: 1088px;
+}
+.d0976a3904564ea8e552501f681548-icon,
+.icon,
+.images-1-icon {
+  position: absolute;
+  top: 56px;
+  left: 377px;
+  width: 252px;
+  height: 315px;
+  object-fit: cover;
+}
+.d0976a3904564ea8e552501f681548-icon,
+.images-1-icon {
+  top: 715px;
+}
+.d0976a3904564ea8e552501f681548-icon {
+  top: 420px;
+  height: 245px;
+}
+.trang-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-inria-sans);
+}
